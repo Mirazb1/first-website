@@ -1,0 +1,156 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-section{
+    width: 525px;
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    height: 100vh;
+}
+
+.main-div{
+    width: 100%;
+    padding-left: 5%;
+}
+
+.first-h1 h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-weight: 800;
+}
+
+.first-h1 {
+    margin-left: 160px;;
+    margin-top: 100px;
+}
+
+.h2{
+    color: #333333;
+    top: 20px;
+}
+.h1{
+    color: chocolate;
+}
+
+.button{
+    padding: 20px 40px;
+    background-color: chocolate;
+    color: white;
+    border: none;
+    margin-top: 19px;
+    border-radius: 7px;
+}
+
+.img img {
+    width: 85%;
+    float: left;
+    margin-left: 724px;
+    margin-top: -415px;
+    cursor: pointer;
+}
+
+.img h3{
+    color: grey;
+    margin-left: 156px;
+}
+
+.hader{
+    font-size: 30px;
+}
+
+.add{
+    color: chocolate;
+}
+
+.item{
+    width: 300px;
+    border: 1px solid rebeccapurple;
+    background-color: rgba(107, 103, 103, 0.432);
+    padding: 15px;
+    margin-left: 100px;
+    float: left;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+.item img{
+    width: 50%;
+}
+
+.item2{
+    width: 300px;
+    border: 1px solid rebeccapurple;
+    background-color: rgba(199, 124, 124, 0.603);
+    padding: 15px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    float: left;
+    border: none;
+    border-radius: 8px;
+}
+
+.item2 img{
+    width: 50%;
+}
+
+
+.item3{
+    width: 300px;
+    border: 1px solid rebeccapurple;
+    background-color:rgba(182, 182, 64, 0.651);
+    padding: 15px;
+    margin-left: 100px;
+    float: left;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+.item3 img{
+    width: 50%;
+}
+
+
+.fother{
+    margin-left: 97px;
+}
+
+.trad-section{
+    margin-bottom: 50px;
+}
+
+.trad-div{
+    margin-bottom: 50px;
+}
+
+.fother img{
+    width: 30%;
+    float: left;
+}
+
+.trad-fother{
+    width: 530px;
+    margin-left: 578px;
+}
+
+.miraz {
+    margin-bottom: 50px;
+    margin-top: 150px;
+}
+
+.md {
+    width: 533px;
+    margin-left: 95px;
+}
+
+.fur-img img {
+    width: 30%;
+    margin-left: 800px;
+    margin-top: -348px;
+}
